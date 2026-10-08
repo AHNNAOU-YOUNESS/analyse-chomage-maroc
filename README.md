@@ -1,6 +1,6 @@
 # Projet Data Science : Pourquoi le taux de chômage augmente sans cesse au Maroc ?
 
-**Auteur :** Étudiant M1 Commerce International - ENCG Settat  
+**Auteur :** AHNNAOU YOUNESS (Étudiant M1 Commerce International - ENCG Settat)  
 **Cours :** Bases de données et Data Science  
 **Source des données :** Enquête nationale sur l'emploi, Haut-Commissariat au Plan (HCP) Maroc  
 
